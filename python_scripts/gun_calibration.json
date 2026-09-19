@@ -1,0 +1,18 @@
+{
+  "yaw_source": "P",
+  "yaw_sign": 1,
+  "pitch_source": "P",
+  "pitch_sign": -1,
+  "sens_slow": 6.0,
+  "sens_fast": 12.0,
+  "sens_v": 6.0,
+  "angle_deadzone": 0.08,
+  "accel_thresh": 2.0,
+  "smoothing": 0.45,
+  "center_Y": -4.16,
+  "center_P": -15.74,
+  "joy_center_X": 1925.0,
+  "joy_center_Y": 1960.0,
+  "lr_range_deg": 0.01,
+  "tb_range_deg": 0.0
+}
